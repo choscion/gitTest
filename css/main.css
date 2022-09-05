@@ -1,0 +1,9 @@
+.container{
+    margin-top: 100px;
+    text-align: center;
+}
+h1{
+    font-size: 5vw;
+    font-weight: 500;
+    color: #888;
+}
